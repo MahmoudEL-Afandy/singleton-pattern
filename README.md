@@ -1,6 +1,6 @@
 # Implementing Singleton Design Pattern 
 
-in this repository, console application with Exchange Rate Example , and implement the singleton pattern on this example .
+Is a console application contains Exchange Rate Example , and i Implemented the singleton pattern on this example .
 
 ## Table of Contents 
 
