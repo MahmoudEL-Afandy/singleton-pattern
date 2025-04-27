@@ -85,11 +85,8 @@ Is a console application contains Exchange Rate Example , and i Implemented the 
 
 If you have any questions or suggestions, feel free to contact us: 
 
-- Email: [mahmoudeldrenyelafandy2000@gmail.com](mailto:mahmoudeldrenyelafandy2000@gmail.com) 
+- Email: [Gmail](mailto:mahmoudeldrenyelafandy2000@gmail.com) 
 
-Follow us on social media: 
-
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-abd-el-halim-sw) 
 
   
 
